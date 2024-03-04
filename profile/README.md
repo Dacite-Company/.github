@@ -1,4 +1,4 @@
-# dacite company
+# dacite company 🌍
 
 Welcome to the official GitHub repository of dacite company! We are an innovative IT service provider dedicated to empowering African startups and enterprises. 
 Our expertise spans software development, mobile and web app creation, software maintenance, cybersecurity, cloud computing, and more. 
